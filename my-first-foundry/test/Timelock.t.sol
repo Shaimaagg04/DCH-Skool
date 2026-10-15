@@ -6,7 +6,7 @@ contract TimeLockTest is Test {
     address alice = makeAddr("alice");
 
     function setUp() public {
-     timelock = new TimeLock(block.timestamp + 7 days, alice);
+        timelock = new TimeLock(block.timestamp + 7 days, alice);
         vm.deal(address(timelock), 10 ether);
     }
 
