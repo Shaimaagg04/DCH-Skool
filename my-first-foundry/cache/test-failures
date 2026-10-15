@@ -1,0 +1,1 @@
+{"version":1,"failures":[{"contract":"test/Counter.t.sol:CounterTest","test":"test_BrokenIntentionally"}]}

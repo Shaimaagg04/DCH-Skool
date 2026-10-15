@@ -1,0 +1,1 @@
+{"abi":[{"type":"function","name":"getReserves","inputs":[],"outputs":[{"name":"","type":"uint112","internalType":"uint112"},{"name":"","type":"uint112","internalType":"uint112"},{"name":"","type":"uint32","internalType":"uint32"}],"stateMutability":"view"}],"id":21}
