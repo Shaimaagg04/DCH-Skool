@@ -89,7 +89,7 @@ contract CounterTest is Test {
 //         assertGt(reserve0, 0);
 //         assertGt(reserve1, 0);
 //     }
-// }
+}
 
 interface IUniswapV2Pair {
     function getReserves() external view returns (uint112, uint112, uint32);
